@@ -1,4 +1,4 @@
-# the way 
+## the way 
 
 	> npm install express-generator -g
 
@@ -10,12 +10,14 @@
 	> curl localhost:3000/
 
 
-[(render-with-ejs)[http://code.runnable.com/UTlPPF-f2W1TAAEa/render-ejs-with-express]]
+## resource
 
-[(db-integration)[http://www.expressjs.com.cn/guide/database-integration.html]]
+[render-with-ejs](http://code.runnable.com/UTlPPF-f2W1TAAEa/render-ejs-with-express)
+
+[db-integration](http://www.expressjs.com.cn/guide/database-integration.html)
 
 
-helpful tool
+## helpful tool
 
 ```bash
 alias cnpm="npm --registry=https://registry.npm.taobao.org \
